@@ -6,8 +6,8 @@ public class MahasiswaBerprestasi25 {
         if (idx<listMhs.length) {
             listMhs[idx]=m;
             idx++;
-            } else {
-                System.out.println("data sudah penuh");
+        } else {
+            System.out.println("data sudah penuh");
         }
     }
 
